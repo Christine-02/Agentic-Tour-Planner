@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-openai
+langchain-chroma
+openai
+chromadb
+pydantic
+requests
+python-dotenv
+numpy
+scikit-learn
